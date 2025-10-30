@@ -1,0 +1,23 @@
+{
+  "name": "cour_rcda-eni",
+  "version": "1.0.0",
+  "description": "Ceci est une demo du cour RCDA devops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jujuli1/cour_RCDA-ENI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jujuli1/cour_RCDA-ENI/issues"
+  },
+  "homepage": "https://github.com/jujuli1/cour_RCDA-ENI#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
